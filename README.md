@@ -1,4 +1,4 @@
-- 👋 Hello there, my name is Minh Giang.
+### 👋 Hello there, my name is Minh Giang.
 
 - 📚 I’m currently attending Sheridan College to pursue a degree in 
 Applied Information Science, and anticipating to graduate in 2023.
