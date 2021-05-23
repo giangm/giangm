@@ -12,7 +12,7 @@ I have volunteered as a competition judge during Trace Lab’s Global OSINT Sear
 and auditing flag submissions. I competed in the CyberSci Regionals 2021 and C3X2021 competitions, representing Sheridan College, 
 and placed 2nd and 3rd, respectively.
 
-Currently, I am one of the executives of ISSessions Cybersecurity Club that contains over 500 motivated members. 
+  - Currently, I am one of the executives of ISSessions Cybersecurity Club that contains over 500 motivated members. 
 Feel free to contact me if you’re interested in delivering a talk related to cybersecurity to the community or simply 
 interested in joining the community. With that being said, I’m also looking for more opportunities where I can participate 
 in and build my skillset.
